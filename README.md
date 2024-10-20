@@ -24,3 +24,5 @@ https://alexmi.shinyapps.io/Course-Project-Shiny-Application-and-Reproducible-Pi
 Click the link below for compiled project files on gitub repo.
 
 https://github.com/MihailovAlex/Course-Project-Shiny-Application-and-Reproducible-Pitch
+
+Reproducible Pitch Presentation: https://rpubs.com/Alex_Mih/1234398 
